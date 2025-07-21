@@ -1,0 +1,15 @@
+//
+//  index.swift
+//  
+//
+//  Created by Marc Beasley on 7/21/25.
+//
+<!DOCTYPE html>
+<html>
+<head><title>Privacy Policy</title></head>
+<body>
+<h1>Privacy Policy</h1>
+<p>PIT does not collect, store, or share any personal data. All data entered into the app remains on your device.</p>
+<p>Contact us at: youremail@example.com</p>
+</body>
+</html>
